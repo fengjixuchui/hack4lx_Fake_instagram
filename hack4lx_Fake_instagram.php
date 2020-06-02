@@ -12,7 +12,7 @@ https://t.me/M4nifest0
 ob_start();
 
 #define
-define('API_KEY','TOKEN'); //TOKEN
+define('API_KEY','1118033704:AAEXMsclAT0vkFJ5YKwhofOWwKwiP1w-xAc'); //TOKEN
 //====================☠️👊 𝕿𝖍𝖎𝖘 𝕴𝖘 𝕿𝖍𝖊 𝓜4𝓷𝓲𝓯𝓮𝓼𝓽0 𝕿𝖊𝖆𝖒™💪🏴‍☠️======================//
 #met
 function bot($method,$datas=[]){
@@ -47,13 +47,13 @@ $forward_username = $update->message->forward_from_chat->username;
 $reply = $message->reply_to_message->forward_from->id;
 $reply_username = $message->reply_to_message->forward_from->username;
 $from_id = $update->message->from->id;
-$admin = "123";//Admin numeric ID
+$admin = "574070677";//Admin numeric ID
 mkdir("data/$chat_id");
 $rand = rand(0,21);
 $Mehdi = $rand;
 $rand2 = rand(0,12345);
 $Yousefi = $rand2;
-$admin = "1234";//Admin numeric ID 2
+$admin = "574070677";//Admin numeric ID 2
 $my = file_get_contents("data/$chat_id/mem.txt");
 //====================☠️👊 𝕿𝖍𝖎𝖘 𝕴𝖘 𝕿𝖍𝖊 𝓜4𝓷𝓲𝓯𝓮𝓼𝓽0 𝕿𝖊𝖆𝖒™💪🏴‍☠️======================//
 #functions
