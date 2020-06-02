@@ -15,17 +15,17 @@ Script for hacking Instagram accounts with phishing This is a tool for testing p
 
 Description 👀
 
-Title 📌 TelegramView-hack4lx-V2
+Title 📌  hack4lx_Fake_instagram
 
 💀 Made by ☠️👊 𝕿𝖍𝖎𝖘 𝕴𝖘 𝕿𝖍𝖊 𝓜4𝓷𝓲𝓯𝓮𝓼𝓽0 𝕿𝖊𝖆𝖒™💪🏴‍☠️
 
 Author 🏴‍☠️ rainboy1 | erfan4lx | Vampire4lx
 
-Aate ♾ 2020 March
+Aate ♾ 2020 May
 
-Version 👁‍🗨 2.0.0
+Version 👁‍🗨 1.0.0
 
-Usage 👌 cd TelegramView-hack4lx-V2
+Usage 👌 Host| SSL | Bot Telegram
 
 Channel  Combo List 👍  [![Telegram Chanel](https://img.shields.io/badge/chat%20on-Telegram-blue.svg)](https://t.me/hack4lxCombo)
 
